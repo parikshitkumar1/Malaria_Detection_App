@@ -24,5 +24,5 @@ $ streamlit run detector.py
 
 
 ## To do
-- [ ] nothing
+- [ ]nothing
 ---

@@ -2,7 +2,7 @@
 # Malaria Detection App
 
 ## Inspiration
-Save humans by detecting and deploying Image Cells that contain Malaria or not!
+Save humans by detecting and deploying Image Cells that contain Malaria or not!, jk this is just to make a front-end for a classification model
 ## Requirements
 Python 3.8 or above with all [requirements](requirements.txt) dependencies installed. To install run:
 ```python
